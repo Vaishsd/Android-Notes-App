@@ -7,8 +7,8 @@ An Android Notes application built using **Java**, **Room Database**, and **Andr
 ## ✨ Features
 
 - 📝 Create, edit, and delete notes
-- 🖼️ Add images from gallery or camera
-- 🔗 Add clickable URLs in notes
+- 🖼️ Add a image from gallery
+- 🔗 Add a clickable URL in notes
 - 🔍 Search notes
 - 🗃️ Room Database integration for local storage
 - 💡 Clean and user-friendly interface
