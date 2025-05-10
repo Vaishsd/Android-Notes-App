@@ -26,18 +26,6 @@ An Android Notes application built using **Java**, **Room Database**, and **Andr
 ---
 
 ## 📁 Folder Structure
-app/
-├── java/
-│   └── com/yourpackage/notesapp/
-│       ├── activities/
-│       ├── adapters/
-│       ├── dao/
-│       ├── database/
-│       ├── entities/
-│       └── listners/
-├── res/
-│   ├── layout/
-│   ├── drawable/
-│   ├── font/
-│   ├── values/
-│   └── xml/
+
+![image](https://github.com/user-attachments/assets/f9913c66-5e20-46a9-88b8-6603dd379a60)
+
