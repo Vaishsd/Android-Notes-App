@@ -29,5 +29,5 @@ An Android Notes application built using **Java**, **Room Database**, and **Andr
 
 *(Add screenshots here — you can upload them to your repo and then use the relative path like `![Home Screen](screenshots/home.png)`)*
 ```markdown
-![Home Screen](screenshots/home.png)
-![Add Note](screenshots/add_note.png)
+![Home Screen](screenshots/home_page.jpg)
+![Add Note](screenshots/add_note.jpg)
