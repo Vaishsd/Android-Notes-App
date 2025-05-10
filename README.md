@@ -22,3 +22,22 @@ An Android Notes application built using **Java**, **Room Database**, and **Andr
 - **Database**: Room (SQLite wrapper)
 - **Architecture**: MVVM (Model-View-ViewModel)
 - **UI**: XML Layouts
+
+---
+
+## 📁 Folder Structure
+app/
+├── java/
+│   └── com/yourpackage/notesapp/
+│       ├── activities/
+│       ├── adapters/
+│       ├── dao/
+│       ├── database/
+│       ├── entities/
+│       └── listners/
+├── res/
+│   ├── layout/
+│   ├── drawable/
+│   ├── font/
+│   ├── values/
+│   └── xml/
