@@ -25,6 +25,15 @@ An Android Notes application built using **Java**, **Room Database**, and **Andr
 
 ---
 
+## 🧑‍💻 How to Run
+Clone the repository:
+
+git clone https://github.com/your-username/NotesApp.git
+
+Open it in Android Studio.
+
+Build the project and run it on an emulator or physical device.
+
 ## 📱 Screenshots
 
 *(Add screenshots here — you can upload them to your repo and then use the relative path like `![Home Screen](screenshots/home.png)`)*
